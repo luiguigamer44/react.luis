@@ -18,3 +18,4 @@ const AppLista = (props) => {
 
 )
 }
+export default AppLista;

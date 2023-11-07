@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import AppLista from './protegido/AppLista';
 function App() {
